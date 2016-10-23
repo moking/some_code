@@ -31,3 +31,6 @@
 # Debug files
 *.dSYM/
 *.su
+test-main
+test-main.opt
+main.c
